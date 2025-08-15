@@ -1,1 +1,1 @@
-# NordKapp Open.MP Server
+# NordCappe Open.MP Server
