@@ -1,4 +1,4 @@
-#include "../connector.inc"
+#include "../scriptfiles/connector.rb"
 
 main()
 {
